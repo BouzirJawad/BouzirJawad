@@ -1,4 +1,16 @@
-<h1 align="left">Hi 👋! My name is Bouzir Jawad and I'm a full stack developer from Morocco</h1>
+<h1 align="left">Hi 👋! My name is Bouzir Jawad and I'm a full-stack developer</h1>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h4 align="left">💻 currently learning full-stack JavaScript development with the MERN stack  <br>📚 deepening my knowledge in modern JavaScript, React, Node.js, Express and MongoDB  <br>🚀 aspiring full-stack developer building real-world projects</h4>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -9,7 +21,17 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h1 align="left">Daily me :</h1>
+
+###
+
+<div align="left">
+  <img height="172" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhlZjIwcm0xZWNmb3htZjdpMmN5NnJtemFobTBxbXdjMDJ3bnQ4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif"  />
+</div>
+
+###
+
+<h1 align="left">Teck Stack :</h1>
 
 ###
 
@@ -48,16 +70,16 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=c" height="73" alt="c logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="73" alt="linkedin logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=discord" height="73" alt="discord logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="73" alt="instagram logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="73" alt="canva logo"  />
 </div>
 
 ###
 
-<div align="center">
+<h1 align="left">Social media :</h1>
+
+###
+
+<div align="left">
   <a href="www.linkedin.com/in/jawad-bouzir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>

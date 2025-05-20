@@ -1,4 +1,16 @@
-<h1 align="left">Hi 👋! My name is Bouzir Jawad and I'm a full-stack developer</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
+<h1 align="center">Welcome to my profile </h1>
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=41F707&left=true&width=435&lines=Hi+%F0%9F%91%8B!;My+name+is+Bouzir+Jawad+!;I'm+a+full-stack+developer" alt="Typing SVG" /></a>
 
 ###
 
@@ -18,6 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BouzirJawad&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BouzirJawad&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 
@@ -95,6 +109,16 @@
 
 <br clear="both">
 
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
 <img src="https://raw.githubusercontent.com/BouzirJawad/BouzirJawad/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###

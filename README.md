@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=41F707&left=true&width=435&lines=Hi+%F0%9F%91%8B!;My+name+is+Bouzir+Jawad+!;I'm+a+full-stack+developer" alt="Typing SVG" /></p>
+<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=41F707&center=true&width=465&lines=Hi+%F0%9F%91%8B!;My+name+is+Bouzir+Jawad+!;I'm+a+full-stack+developer" alt="Typing SVG" /></p>
 
 ###
 

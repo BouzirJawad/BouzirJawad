@@ -10,11 +10,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=41F707&left=true&width=435&lines=Hi+%F0%9F%91%8B!;My+name+is+Bouzir+Jawad+!;I'm+a+full-stack+developer" alt="Typing SVG" /></a>
-
-###
-
-<p align="left"></p>
+<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=41F707&left=true&width=435&lines=Hi+%F0%9F%91%8B!;My+name+is+Bouzir+Jawad+!;I'm+a+full-stack+developer" alt="Typing SVG" /></p>
 
 ###
 
@@ -22,7 +18,7 @@
 
 ###
 
-<p align="left"></p>
+<br clear="both">
 
 ###
 
@@ -42,6 +38,10 @@
 <div align="left">
   <img height="172" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhlZjIwcm0xZWNmb3htZjdpMmN5NnJtemFobTBxbXdjMDJ3bnQ4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif"  />
 </div>
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 
@@ -89,6 +89,10 @@
 
 ###
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
 <h1 align="left">Social media :</h1>
 
 ###
@@ -104,10 +108,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
 
 ###
 

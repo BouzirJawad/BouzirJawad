@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">💻 currently learning full-stack JavaScript development with the MERN stack  <br>📚 deepening my knowledge in modern JavaScript, React, Node.js, Express and MongoDB  <br>🚀 aspiring full-stack developer building real-world projects</h4>
+<h4 align="left">💻 currently learning full-stack JavaScript development with the MERN stack  <br> 📚 deepening my knowledge in modern JavaScript, React, Node.js, Express and MongoDB  <br> 🚀 aspiring full-stack developer building real-world projects <br> 👨‍🏫 Sharing what I learn as I go</h4>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h1 align="left">Daily me :</h1>
+<h1 align="left">❤️‍🔥 Daily me :</h1>
 
 ###
 
@@ -96,7 +96,7 @@
 
 ###
 
-<h1 align="left">Social media :</h1>
+<h1 align="left">🌐 Social media :</h1>
 
 ###
 

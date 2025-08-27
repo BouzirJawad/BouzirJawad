@@ -32,6 +32,25 @@
 
 ###
 
+<h1 align="left">🚀 Hosted Projects :</h1>
+
+###
+
+<div align="left">
+
+- 🍳 [Cooking Website](https://cooksecure.netlify.app/)  
+- 📦 [TransportConnect App](https://trasportconnect.netlify.app/)  
+- 🎬 [Movies App](https://egydead.netlify.app/)  
+- ☁️ [Weather App](https://ta9s.netlify.app/)  
+
+</div>
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
 <h1 align="left">❤️‍🔥 Daily me :</h1>
 
 ###
@@ -123,5 +142,3 @@
 ###
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-###

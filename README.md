@@ -22,16 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BouzirJawad&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BouzirJawad&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BouzirJawad&label=Profile%20views&color=0e75b6&style=flat" alt="BouzirJawad" /> </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-###
-
 <h1 align="left">🚀 Hosted Projects :</h1>
 
 ###
